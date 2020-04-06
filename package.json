@@ -1,6 +1,8 @@
 {
   "name": "bitpay-rates-now",
-  "version": "0.1.0",
+  "version": "0.0.1",
+  "description": "ZEIT Now example to implement the bitpay-rates module using TypeScript.",
+  "main": "index.js",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -11,5 +13,22 @@
     "next": "9.3.4",
     "react": "16.13.1",
     "react-dom": "16.13.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/colcodev/bitpay-rates-now.git"
+  },
+  "keywords": [
+    "bitpay",
+    "rates",
+    "now",
+    "typescript"
+  ],
+  "author": "Mario Colque <colquemario@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/colcodev/bitpay-rates-now/issues"
+  },
+  "homepage": "https://github.com/colcodev/bitpay-rates-now#readme",
+  "license": "MIT"
 }
