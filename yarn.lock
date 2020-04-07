@@ -1323,6 +1323,11 @@ bindings@^1.5.0:
   dependencies:
     file-uri-to-path "1.0.0"
 
+bitpay-rates@^0.2.9:
+  version "0.2.9"
+  resolved "https://registry.yarnpkg.com/bitpay-rates/-/bitpay-rates-0.2.9.tgz#d0e4e151a09d51629df6d0da196a38c8df964a98"
+  integrity sha512-24IF1SevylJUfqw34wpX+G96a+TT1u+SMMARVFZ+dwpJ/0FKqAkpPUDZOS3NHf1B3C8I9hjPHbTE/SQfyni09Q==
+
 bluebird@^3.5.5:
   version "3.7.2"
   resolved "https://registry.yarnpkg.com/bluebird/-/bluebird-3.7.2.tgz#9f229c15be272454ffa973ace0dbee79a1b0c36f"
